@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/student_name"
+        android:layout_margin="16dp"/>
+
+    <CheckBox
+        android:id="@+id/cb_adnan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/adnan"
+        android:layout_margin="16dp" />
+
+    <CheckBox
+        android:id="@+id/cb_shahin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shahin"
+        android:layout_margin="16dp" />
+
+    <CheckBox
+        android:id="@+id/cb_piyal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/piyal"
+        android:layout_margin="16dp" />
+
+    <CheckBox
+        android:id="@+id/cb_baky"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/baky"
+        android:layout_margin="16dp" />
+
+    <CheckBox
+        android:id="@+id/cb_shibbir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shibbir"
+        android:layout_margin="16dp" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="@string/submit" />
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Check Box</string>
+
+    <string name="student_name">Student name</string>
+
+    <string name="adnan">Adnan Jawad</string>
+    <string name="shahin">Shahin Alam</string>
+    <string name="piyal">Piyal Shah</string>
+    <string name="baky">Baky Billah</string>
+    <string name="shibbir">Shibbir Ahmad</string>
+    <string name="submit">Submit</string>
+</resources>
